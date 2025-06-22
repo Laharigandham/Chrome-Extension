@@ -1,6 +1,6 @@
-# Chrome Extension: [Your Extension Name]
+# Chrome Extension: [AZ problem tracker]
 
-A lightweight and user-friendly Chrome Extension that [briefly explain what your extension does].
+A lightweight and user-friendly Chrome Extension that bookmarks the problems and user can revisit the problem across anhy webpage.
 
 ---
 
@@ -31,6 +31,6 @@ chrome-extension/
 ├── popup.js # Popup logic
 ├── background.js # Background tasks (optional)
 ├── content.js # Injected into web pages (optional)
-├── styles.css # Styling for popup
-└── icons/ # Extension icons
+├── popup.css # Styling for popup
+└── assets/ # Extension icons
 
